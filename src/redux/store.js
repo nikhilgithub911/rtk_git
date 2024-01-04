@@ -7,3 +7,5 @@ export const store = configureStore({
         counter:CounterSlice
     }
 })
+
+// this is store for child 2
