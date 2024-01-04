@@ -8,5 +8,4 @@ export const store = configureStore({
     }
 })
 
-
-// this is global store for redux toolkit
+// this is store for child 2
