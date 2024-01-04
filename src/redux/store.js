@@ -7,3 +7,6 @@ export const store = configureStore({
         counter:CounterSlice
     }
 })
+
+
+// this is global store for redux toolkit
